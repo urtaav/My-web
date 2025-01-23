@@ -33,7 +33,7 @@ const Projects = () => {
         },
         {
           title: 'Fixture Soccer App',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          desc: 'This Football Fixture app automatically generates matchups between a specified number of teams. ',
           image: Fixture,
           live: "https://urtaav.github.io/fixture-soccer-app-17/",
           github: "https://github.com/urtaav/fixture-soccer-app-17",
@@ -41,7 +41,7 @@ const Projects = () => {
         },
         {
           title: 'Defer Tabs',
-          desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
+          desc: 'The app highlights how the new directives simplify common tasks like conditionally rendering elements, handling user interactions, and managing component behavior.',
           image: Defer,
           live: "https://private-user-images.githubusercontent.com/30246385/290899830-4caaa921-db91-438a-b941-76a4a561fe8a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc2NzE5NzQsIm5iZiI6MTczNzY3MTY3NCwicGF0aCI6Ii8zMDI0NjM4NS8yOTA4OTk4MzAtNGNhYWE5MjEtZGI5MS00MzhhLWI5NDEtNzZhNGE1NjFmZThhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIzVDIyMzQzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1MjEwNmUwMWY0MjM4N2IzYWMzODczYWFkN2M1OWM1MmI1MTY3MTZiZTU2ZGNlZGFmM2U4NTRkZTQ1OTEzYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LYaligESHsNFmM05Dyl8fSGd8baqDI7k3rO2IEcBblU",
           github: "https://github.com/urtaav/angular-defer-material-tabs",
